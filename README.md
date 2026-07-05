@@ -1,7 +1,7 @@
 # exercise_projects
-
-A new Flutter project.
-
+lip/features/Student
+lip/features/Student
+lip/features/Student
 ## Getting Started
 
 This project is a starting point for a Flutter application.
